@@ -477,3 +477,17 @@ img {
   background-position: center;
   background-size: cover;
 }
+
+/* end of hw4 1st section */
+
+/* start of hw4 section 2 */
+
+.section-two-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 112px;
+  background-color: #f4f4fd;
+  border-radius: 4px;
+  margin-bottom: 8px;
+}
