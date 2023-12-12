@@ -553,6 +553,8 @@ img {
 .fifth-section-lists {
   display: flex;
   gap: 24px;
+  margin: 0;
+  padding: 0;
 }
 
 .fifth-section-list {
