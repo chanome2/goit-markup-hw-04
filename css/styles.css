@@ -543,14 +543,14 @@ img {
   padding-bottom: 120px;
 }
 
-/* .fifth-section-header {
+.section-five-header {
   font-size: 36px;
   line-height: 1.11;
   color: #2e2f42;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   margin-bottom: 72px;
-} */
+}
 
 .fifth-section-lists {
   display: flex;
