@@ -533,3 +533,29 @@ img {
 .socmed-link:focus {
   background-color: #404bbf;
 }
+
+/* end of hw4 section 4 */
+
+/* start of hw2 section 5 */
+
+.fifth-section {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.fifth-section-header {
+  font-size: 36px;
+  line-height: 1.11;
+  color: #2e2f42;
+  margin-bottom: 72px;
+}
+
+.fifth-section-lists {
+  display: flex;
+  gap: 24px;
+}
+
+.fifth-section-list {
+  width: calc((100% - 120px) / 6);
+  height: 88px;
+}
