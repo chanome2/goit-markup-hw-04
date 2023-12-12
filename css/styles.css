@@ -586,3 +586,12 @@ img {
 .fifth-section-icon {
   fill: currentColor;
 }
+
+/* end of hw4 section 5 */
+
+/* start of hw4 footer */
+
+.footer-container {
+  display: flex;
+  align-items: baseline;
+}
