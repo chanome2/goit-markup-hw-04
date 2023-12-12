@@ -595,3 +595,7 @@ img {
   display: flex;
   align-items: baseline;
 }
+
+.wrapper {
+  margin-right: 120px;
+}
