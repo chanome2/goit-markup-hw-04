@@ -522,6 +522,10 @@ img {
   justify-content: center;
 }
 
+.socmed-icon {
+  fill: #f4f4fd;
+}
+
 .socmed-link:hover {
   background-color: #404bbf;
 }
