@@ -553,9 +553,11 @@ img {
 .fifth-section-lists {
   display: flex;
   gap: 24px;
+  margin: 0;
+  padding: 0;
 }
 
 .fifth-section-list {
-  width: calc((100% - 120px) / 6);
+  flex: calc((100% - 120px) / 6);
   height: 88px;
 }
