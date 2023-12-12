@@ -599,3 +599,22 @@ img {
 .wrapper {
   margin-right: 120px;
 }
+
+.socmed-wrapper-paragraph {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  margin-bottom: 16px;
+}
+
+.wrapper-lists {
+  display: flex;
+  gap: 16px;
+}
+
+.wrapper-list {
+  width: 40px;
+  height: 40px;
+}
