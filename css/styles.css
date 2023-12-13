@@ -55,6 +55,7 @@ body {
 
 .address-list {
   font-style: normal;
+  margin: auto;
 }
 
 .contact-color {
@@ -85,6 +86,8 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
+  margin: auto;
+  margin-bottom: 48px;
 }
 
 .btn {
@@ -95,6 +98,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
+  margin: auto;
 }
 
 .btn:hover {
@@ -230,6 +234,7 @@ img {
 
 .index-header {
   border-bottom: 1px solid #e7e9fc;
+  /* margin: auto; */
 }
 
 .header-container {
@@ -478,6 +483,7 @@ img {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  margin: auto;
 }
 
 /* end of hw4 1st section */
